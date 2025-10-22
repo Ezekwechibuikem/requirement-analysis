@@ -26,32 +26,26 @@ Requirement Analysis is the process of identifying, documenting, and managing th
 
 During this phase, developers, project managers, and stakeholders collaborate to define what the system should do (functional requirements) and how it should perform (non-functional requirements). The outcome is a clear, structured set of requirements that guide the design, development, and testing stages of the project.
 
-### 🔍 Key Activities in Requirement Analysis
+## Key Activities in Requirement Analysis
 
-- Requirement Gathering: Collecting needs from clients, users, and other stakeholders.
+### Requirement Analysis involves several important activities to ensure the software meets user expectations and business goals.
 
-- Requirement Documentation: Clearly recording all identified requirements in structured formats.
+Below are the five key activities involved:
 
-- Requirement Classification: Categorizing into functional and non-functional requirements.
+- Requirement Gathering
+Collecting all relevant information from stakeholders, users, and clients to understand what the system should do. This may involve interviews, surveys, or reviewing existing documentation.
 
-- Requirement Validation: Ensuring that all requirements are realistic, complete, and align with business goals.
+- Requirement Elicitation
+Engaging stakeholders through discussions, workshops, and observation to uncover hidden needs and clarify ambiguous requirements.
 
-- Requirement Management: Maintaining and updating requirements as the project evolves.
+- Requirement Documentation
+Organizing and writing down all gathered and elicited requirements in a clear, structured format (e.g., Software Requirement Specification - SRS) for easy understanding by both technical and non-technical teams.
 
-🚀 Importance of Requirement Analysis in SDLC
+- Requirement Analysis and Modeling
+Evaluating requirements for feasibility, consistency, and completeness. Creating models such as data flow diagrams (DFDs), use cases, or UML diagrams to represent the system’s functionality visually.
 
-- Clarity and Focus: Prevents ambiguity by defining what the software must achieve before development begins.
-
-- Improved Communication: Acts as a bridge between stakeholders and the development team, ensuring shared understanding.
-
-- Reduced Costs and Rework: Detecting requirement issues early helps avoid costly changes during later stages.
-
-- Better Project Planning: Provides a foundation for estimating resources, timelines, and budgets accurately.
-
-- Enhanced Quality: Ensures the final product meets user needs, improving satisfaction and usability.
-
-- In short, Requirement Analysis is the blueprint of software development — without it, even the best code can fail to meet real-world needs.
-
+- Requirement Validation
+Ensuring that the documented requirements align with the actual needs of users and stakeholders. This step helps identify missing, conflicting, or misunderstood requirements before development begins.
 
 ## Why is Requirement Analysis Important?
 
