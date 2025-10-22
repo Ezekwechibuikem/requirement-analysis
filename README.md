@@ -60,6 +60,45 @@ Identifying requirements early helps detect potential risks and technical challe
 ### 3. Improves Software Quality
 A well-defined set of requirements acts as a guide for design, coding, and testing. It ensures that the final product aligns with user expectations and business objectives, resulting in higher-quality software.
 
+## Types of Requirements
+
+In software engineering, requirements are broadly classified into two main categories — Functional and Non-functional requirements.
+These help define what the system should do and how well it should perform.
+
+### 1. Functional Requirements
+
+**Definition:**
+Functional requirements describe the specific features, behaviors, and functions that the system must perform. They define what the system should do to meet user and business needs.
+
+*Examples for a Booking Management Project:*
+
+- The system should allow users to create a new booking for available rooms or services.
+
+- The system should send booking confirmation emails to users after successful payment.
+
+- The system should allow administrators to view, edit, and cancel bookings.
+
+- The system should provide search functionality to find bookings by date, customer name, or booking ID.
+
+- The system should display available slots or rooms based on the user’s selected date and time.
+
+### 2. Non-functional Requirements
+
+**Definition:**
+Non-functional requirements define the quality attributes of the system — how the system performs rather than what it does. These include performance, reliability, security, usability, and scalability.
+
+*Examples for a Booking Management Project:*
+
+- The system should respond to user requests within 3 seconds under normal load.
+
+- The website should be accessible on all major browsers and mobile devices.
+
+- User data must be encrypted and stored securely to prevent unauthorized access.
+
+- The system should handle up to 10,000 concurrent users without performance degradation.
+
+- The system should have 99.9% uptime availability to ensure reliability.
+
 ---
 
 > In summary, Requirement Analysis sets the foundation for successful software projects by ensuring clarity, reducing risks, and aligning all stakeholders toward a common goal.
