@@ -99,6 +99,47 @@ Non-functional requirements define the quality attributes of the system — how 
 
 - The system should have 99.9% uptime availability to ensure reliability.
 
+## Use Case Diagrams
+### What is a Use Case Diagram?
+
+A Use Case Diagram is a visual representation used in Requirement Analysis to show the interaction between users (actors) and the system (use cases).
+It helps identify who will use the system and what actions they can perform.
+
+### Benefits of Use Case Diagrams
+
+- Simplifies the understanding of system functionality.
+
+- Helps in identifying user interactions and system boundaries.
+
+- Serves as a foundation for requirement documentation and system design.
+
+- Improves communication between developers, clients, and stakeholders.
+
+### Use Case Diagram for Booking Management System
+**Actors**
+
+- Customer – books, views, and cancels bookings.
+
+- Admin – manages users, updates booking details, and monitors the system.
+
+- Payment System – handles payment transactions.
+
+**Use Cases**
+
+- Register / Login
+
+- View Available Rooms / Services
+
+- Make a Booking
+
+- Cancel Booking
+
+- Process Payment
+
+- Manage Bookings (Admin)
+
+- Generate Reports (Admin)
+
 ---
 
 > In summary, Requirement Analysis sets the foundation for successful software projects by ensuring clarity, reducing risks, and aligning all stakeholders toward a common goal.
