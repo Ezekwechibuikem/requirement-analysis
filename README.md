@@ -144,6 +144,42 @@ It helps identify who will use the system and what actions they can perform.
 
 - Generate Reports (Admin)
 
+## Acceptance Criteria
+
+### What is Acceptance Criteria?
+
+Acceptance Criteria are the predefined conditions that a software feature must meet to be considered complete and acceptable by the stakeholders. They serve as a clear checklist that guides developers, testers, and clients in understanding what success looks like for each feature.
+
+### Importance of Acceptance Criteria
+
+- ✅ Clarity for Developers: Ensures everyone understands what needs to be built and when it’s considered “done.”
+
+- 🧪 Supports Testing: Provides measurable conditions that testers can validate during QA.
+
+- 💬 Enhances Communication: Bridges the gap between developers, product owners, and clients by setting shared expectations.
+
+- 📈 Improves Quality: Prevents scope creep and ensures all user stories align with business goals.
+
+### Example — Checkout Feature (Booking Management System)
+
+**User Story:**
+
+As a customer, I want to complete my booking and pay securely so that I can confirm my reservation.
+
+**Acceptance Criteria:**
+
+- ✅ The user must be able to view a booking summary before payment.
+
+- ✅ The system should support multiple payment methods (e.g., credit card, PayPal).
+
+- ✅ The system must validate payment details before processing.
+
+- ✅ After successful payment, the system should display a confirmation message and booking ID.
+
+- ✅ The user should receive a confirmation email within 5 minutes of completing payment.
+
+- ✅ If payment fails, the user should be prompted to retry or use a different payment method.
+
 ---
 
 > In summary, Requirement Analysis sets the foundation for successful software projects by ensuring clarity, reducing risks, and aligning all stakeholders toward a common goal.
