@@ -99,6 +99,8 @@ Non-functional requirements define the quality attributes of the system — how 
 
 - The system should have 99.9% uptime availability to ensure reliability.
 
+## alx-booking-uc.png
+
 <img width="768" height="662" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/c24a7447-948b-43a0-b4a7-8b2ef3bc20ce" />
 
 ## Use Case Diagrams
