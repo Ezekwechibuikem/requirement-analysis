@@ -20,7 +20,7 @@ Define clear acceptance criteria that align with user and business goals.
 
 Apply best practices to produce industry-standard documentation and diagrams.
 
-## 🧠 What is Requirement Analysis
+## What is Requirement Analysis?
 
 Requirement Analysis is the process of identifying, documenting, and managing the needs and expectations of stakeholders for a software system. It serves as the foundation of the Software Development Life Cycle (SOLC), ensuring that the final product aligns with user goals, business objectives, and technical feasibility.
 
