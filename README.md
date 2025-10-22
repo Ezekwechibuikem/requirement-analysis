@@ -99,7 +99,7 @@ Non-functional requirements define the quality attributes of the system — how 
 
 - The system should have 99.9% uptime availability to ensure reliability.
 
-<img width="757" height="651" alt="alx-booking-uc drawio" src="https://github.com/user-attachments/assets/206c2be9-6a34-4b87-9489-46a50cd31291" />
+<img width="768" height="662" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/c24a7447-948b-43a0-b4a7-8b2ef3bc20ce" />
 
 ## Use Case Diagrams
 ### What is a Use Case Diagram?
